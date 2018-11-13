@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename resource &apos;TileGame/res/textures/Chibi Kaneki.png&apos; to &apos;chibi.png&apos;" description="Rename resource &apos;Chibi Kaneki.png&apos;" flags="7" id="org.eclipse.ltk.core.refactoring.rename.resource" input="res/textures/Chibi Kaneki.png" name="chibi.png" stamp="1531206095648" updateReferences="true"/>
+</session>
